@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/product-preview-card-using-gridflexbox-_BfXYJGOLT)
+- Live Site URL: [live site](https://cooger17.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -44,6 +44,7 @@ Users should be able to:
 - CSS Grid
 
 ### What I learned
+
 using grid system, best practice of flexbox and properties
 
 ### Continued development
@@ -53,4 +54,3 @@ Media queries, css animation, css transform
 ## Author
 
 - Frontend Mentor - [@cooger17](https://www.frontendmentor.io/profile/cooger17)
-
